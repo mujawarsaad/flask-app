@@ -1,0 +1,5 @@
+This is the project for the Task 2 of my DevOps Internship at Elevate Labs
+I made a complete zero touch CI/CD pipeline using Jenkins and GitHub Webhook
+Once a developer commit in GitHub, It triggers the pipeline and it automatically clone the code,
+build the docker image, push that image to the DockerHub and Finally deploy it.
+I gain experience with Jenkins, Docker, GitHub, Webhook, and EC2.

@@ -37,3 +37,7 @@ cash_counter/
 ├── Dockerfile             # Production Docker configuration
 └── templates/
     └── index.html         # Frontend UI & JavaScript logic
+
+
+![Cash Counter Light Mode](assets/light-theme.png)
+![Cash Counter Dark Mode](assets/dark-theme.png)

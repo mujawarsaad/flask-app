@@ -39,5 +39,5 @@ cash_counter/
     └── index.html         # Frontend UI & JavaScript logic
 
 
-![Cash Counter Light Mode](assets/light-theme.png)
-![Cash Counter Dark Mode](assets/dark-theme.png)
+<img src="assets/light-theme.png" alt="Cash Counter Light Mode" />
+<img src="assets/dark-theme.png" alt="Cash Counter Dark Mode" />
